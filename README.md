@@ -29,7 +29,7 @@ np.matmul(), np.linalg.det(), np.vstack(), np.hstack()
 I completed the entire [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) course on Kaggle.  
 Here are the lessons I worked through (with links to my notebooks):
 
-1. [How Models Work]
+1. How Models Work
 2. [Basic Data Exploration](https://www.kaggle.com/code/anirudh4v/exercise-explore-your-data)
 3. [Your First Machine Learning Model](https://www.kaggle.com/code/anirudh4v/exercise-your-first-machine-learning-model)
 4. [Model Validation](https://www.kaggle.com/code/anirudh4v/exercise-model-validation)
