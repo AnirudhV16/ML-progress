@@ -23,7 +23,20 @@ np.matmul(), np.linalg.det(), np.vstack(), np.hstack()
 
 ---
 
-### Next Focus:
+## Kaggle Learn – Intro to Machine Learning
 
-- Pandas for data manipulation
-- Data visualization with Matplotlib
+I completed the entire [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) course on Kaggle.  
+Here are the lessons I worked through (with links to my notebooks):
+
+1. [How Models Work](https://www.kaggle.com/yourusername/how-models-work)
+2. [Basic Data Exploration](https://www.kaggle.com/code/anirudh4v/exercise-explore-your-data)
+3. [Your First Machine Learning Model](https://www.kaggle.com/code/anirudh4v/exercise-your-first-machine-learning-model)
+4. [Model Validation](https://www.kaggle.com/code/anirudh4v/exercise-model-validation)
+5. [Underfitting and Overfitting](https://www.kaggle.com/code/anirudh4v/exercise-underfitting-and-overfitting)
+6. [Random Forests](https://www.kaggle.com/code/anirudh4v/exercise-random-forests)
+7. [Machine Learning Competitions](https://www.kaggle.com/code/anirudh4v/exercise-machine-learning-competitions)
+
+----
+
+### Notes:
+This repository now contains both my **NumPy practice** and **Kaggle ML course notebooks**, showing my daily progress and learning in machine learning.
