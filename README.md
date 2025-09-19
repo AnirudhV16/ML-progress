@@ -24,6 +24,7 @@ np.matmul(), np.linalg.det(), np.vstack(), np.hstack()
 ---
 
 ## Kaggle Learn – Intro to Machine Learning
+
 **File**: `Intro to Machine Learning Kaggle`
 
 I completed the entire [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) course on Kaggle.  
@@ -37,7 +38,28 @@ Here are the lessons I worked through (with links to my notebooks):
 6. [Random Forests](https://www.kaggle.com/code/anirudh4v/exercise-random-forests)
 7. [Machine Learning Competitions](https://www.kaggle.com/code/anirudh4v/exercise-machine-learning-competitions)
 
-----
+---
+
+## Day 2: Pandas Fundamentals
+
+**Date**: 19 Sep  
+**File**: `2Pandas.ipynb`
+
+### What I Learned Today:
+
+- **Pandas Basics**: Series, DataFrame creation
+- **Indexing & Selection**: `.loc[]`, `.iloc[]`, conditional filtering
+- **Descriptive Statistics**: `.describe()`, `.info()`, `.value_counts()`
+- **Data Cleaning**: handling NaN values, renaming columns, dropping rows/columns
+- **Data Manipulation**: groupby, aggregation, sorting, merging/joining DataFrames
+
+### Key Functions Practiced:
+
+pd.Series(), pd.DataFrame(), df.loc[], df.iloc[]  
+df.describe(), df.info(), df.groupby(), df.sort_values(), df.merge()
+
+---
 
 ### Notes:
-This repository now contains both my **NumPy practice** and **Kaggle ML course notebooks**, showing my daily progress and learning in machine learning.
+
+This repository now contains my **NumPy** and **Pandas practice notebooks**, along with my completed **Kaggle ML course**, documenting my daily ML learning journey.
