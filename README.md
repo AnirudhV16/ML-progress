@@ -60,6 +60,33 @@ df.describe(), df.info(), df.groupby(), df.sort_values(), df.merge()
 
 ---
 
+## Day 3: Kaggle Learn – Intermediate Machine Learning
+
+**Date**: 20 Sep  
+**File**: `Intermediate ML Kaggle`
+
+I completed the entire [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) course on Kaggle.  
+Here are the lessons I worked through (with links to my notebooks):
+
+1. [Introduction](https://www.kaggle.com/code/anirudh4v/exercise-introduction)  
+2. [Missing Values](https://www.kaggle.com/code/anirudh4v/exercise-missing-values)  
+3. [Categorical Variables](https://www.kaggle.com/code/anirudh4v/exercise-categorical-variables)  
+4. [Pipelines](https://www.kaggle.com/code/anirudh4v/exercise-pipelines)  
+5. [Cross-Validation](https://www.kaggle.com/code/anirudh4v/exercise-cross-validation)  
+6. [XGBoost](https://www.kaggle.com/code/anirudh4v/exercise-xgboost)  
+7. [Data Leakage](https://www.kaggle.com/code/anirudh4v/exercise-data-leakage)  
+
+### Key Concepts Learned:
+
+- Handling **missing values** effectively (dropping, imputation strategies)  
+- Working with **categorical variables** (ordinal encoding, one-hot encoding)  
+- Building and managing **pipelines** for clean workflows  
+- Using **cross-validation** to evaluate model performance reliably  
+- Implementing **XGBoost**, a powerful gradient boosting algorithm  
+- Identifying and preventing **data leakage** in ML projects  
+
+---
+
 ### Notes:
 
-This repository now contains my **NumPy** and **Pandas practice notebooks**, along with my completed **Kaggle ML course**, documenting my daily ML learning journey.
+This repository now contains my **NumPy** and **Pandas practice notebooks**, along with my completed **Kaggle ML courses**, documenting my daily ML learning journey.
