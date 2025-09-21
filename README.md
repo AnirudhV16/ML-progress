@@ -68,25 +68,60 @@ df.describe(), df.info(), df.groupby(), df.sort_values(), df.merge()
 I completed the entire [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) course on Kaggle.  
 Here are the lessons I worked through (with links to my notebooks):
 
-1. [Introduction](https://www.kaggle.com/code/anirudh4v/exercise-introduction)  
-2. [Missing Values](https://www.kaggle.com/code/anirudh4v/exercise-missing-values)  
-3. [Categorical Variables](https://www.kaggle.com/code/anirudh4v/exercise-categorical-variables)  
-4. [Pipelines](https://www.kaggle.com/code/anirudh4v/exercise-pipelines)  
-5. [Cross-Validation](https://www.kaggle.com/code/anirudh4v/exercise-cross-validation)  
-6. [XGBoost](https://www.kaggle.com/code/anirudh4v/exercise-xgboost)  
-7. [Data Leakage](https://www.kaggle.com/code/anirudh4v/exercise-data-leakage)  
+1. [Introduction](https://www.kaggle.com/code/anirudh4v/exercise-introduction)
+2. [Missing Values](https://www.kaggle.com/code/anirudh4v/exercise-missing-values)
+3. [Categorical Variables](https://www.kaggle.com/code/anirudh4v/exercise-categorical-variables)
+4. [Pipelines](https://www.kaggle.com/code/anirudh4v/exercise-pipelines)
+5. [Cross-Validation](https://www.kaggle.com/code/anirudh4v/exercise-cross-validation)
+6. [XGBoost](https://www.kaggle.com/code/anirudh4v/exercise-xgboost)
+7. [Data Leakage](https://www.kaggle.com/code/anirudh4v/exercise-data-leakage)
 
 ### Key Concepts Learned:
 
-- Handling **missing values** effectively (dropping, imputation strategies)  
-- Working with **categorical variables** (ordinal encoding, one-hot encoding)  
-- Building and managing **pipelines** for clean workflows  
-- Using **cross-validation** to evaluate model performance reliably  
-- Implementing **XGBoost**, a powerful gradient boosting algorithm  
-- Identifying and preventing **data leakage** in ML projects  
+- Handling **missing values** effectively (dropping, imputation strategies)
+- Working with **categorical variables** (ordinal encoding, one-hot encoding)
+- Building and managing **pipelines** for clean workflows
+- Using **cross-validation** to evaluate model performance reliably
+- Implementing **XGBoost**, a powerful gradient boosting algorithm
+- Identifying and preventing **data leakage** in ML projects
+
+---
+
+## Day 4: Coursera – Supervised Machine Learning: Regression and Classification
+
+**Date**: 21 Sep  
+**File**: `4ML_course1_Week1.ipynb`
+
+I enrolled in the **Machine Learning Specialization by Coursera (DeepLearning.AI & Stanford)** today and
+completed **Week 1** of the first course: _Supervised Machine Learning: Regression and Classification_.
+
+### Week 1: Introduction to Machine Learning
+
+#### Topics Covered:
+
+- **Welcome & Applications of ML**
+  - What ML is and where it’s applied in the real world
+- **Core ML Concepts**
+  - What is machine learning?
+  - Supervised learning
+  - Unsupervised learning
+- **Tools for ML**
+  - Introduction to Jupyter Notebooks
+- **Regression**
+  - Linear regression model
+- **Cost Function**
+  - Formula and intuition
+  - Visualizing the cost function
+  - Visualization examples
+- **Gradient Descent**
+  - Concept and implementation
+  - Gradient descent intuition
+  - Learning rate
+  - Gradient descent for linear regression
 
 ---
 
 ### Notes:
 
-This repository now contains my **NumPy** and **Pandas practice notebooks**, along with my completed **Kaggle ML courses**, documenting my daily ML learning journey.
+This repository now contains my **NumPy** and **Pandas practice notebooks**, along with my completed **Kaggle ML courses**,
+cousera **specialization in Machine Learning** documenting my daily ML learning journey.
