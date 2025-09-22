@@ -121,6 +121,42 @@ completed **Week 1** of the first course: _Supervised Machine Learning: Regressi
 
 ---
 
+---
+
+## Day 5: Coursera – Supervised Machine Learning: Regression and Classification
+
+**Date**: 22 Sep  
+**File**: `5ML_course1_Week2.ipynb`
+
+I completed **Week 2** of the first course in the Machine Learning Specialization on Coursera.
+
+### Week 2: Regression with Multiple Features
+
+#### Topics Covered:
+
+- **Multiple Features**
+  - Linear regression with multiple input variables
+- **Vectorization**
+  - Efficient implementation with NumPy (Vectorization Part 1 & 2)
+- **Gradient Descent for Multiple Linear Regression**
+  - Extending gradient descent to handle multiple features
+- **Feature Scaling**
+  - Normalization and standardization
+  - Checking gradient descent for convergence
+  - Choosing the right learning rate
+- **Feature Engineering**
+  - Creating new features
+  - Polynomial regression for non-linear relationships
+
+### Applied Project: Housing Price Prediction (Kaggle Competition)
+
+- Used the **House Prices: Advanced Regression Techniques** dataset (train & test splits from Kaggle).
+- Implemented **SGDRegressor** (linear regression) with preprocessing steps such as scaling, one-hot encoding, and imputation.
+- Submitted predictions to Kaggle and achieved a **public leaderboard score of ~17,000**.
+- All implementation and experimentation are documented in the Colab notebook.
+
+---
+
 ### Notes:
 
 This repository now contains my **NumPy** and **Pandas practice notebooks**, along with my completed **Kaggle ML courses**,
