@@ -25,7 +25,7 @@ np.matmul(), np.linalg.det(), np.vstack(), np.hstack()
 
 ## Kaggle Learn – Intro to Machine Learning
 
-**File**: `Intro to Machine Learning Kaggle`
+**Folder**: `Intro to Machine Learning Kaggle`
 
 I completed the entire [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) course on Kaggle.  
 Here are the lessons I worked through (with links to my notebooks):
@@ -63,7 +63,7 @@ df.describe(), df.info(), df.groupby(), df.sort_values(), df.merge()
 ## Day 3: Kaggle Learn – Intermediate Machine Learning
 
 **Date**: 20 Sep  
-**File**: `Intermediate ML Kaggle`
+**Folder**: `Intermediate ML Kaggle`
 
 I completed the entire [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) course on Kaggle.  
 Here are the lessons I worked through (with links to my notebooks):
@@ -154,6 +154,39 @@ I completed **Week 2** of the first course in the Machine Learning Specializatio
 - Implemented **SGDRegressor** (linear regression) with preprocessing steps such as scaling, one-hot encoding, and imputation.
 - Submitted predictions to Kaggle and achieved a **public leaderboard score of ~17,000**.
 - All implementation and experimentation are documented in the Colab notebook.
+
+---
+
+## Day 6: Coursera – Supervised Machine Learning: Regression and Classification
+
+**Date:** 23 Sep  
+**File:** `6ML_course1_Week3.ipynb`  
+**Folder:** `Course_1`
+
+completed **Week 3** of the first course in the **Machine Learning Specialization by Coursera**, and with this, **Course 1** completed.
+
+### Week 3: Classification and Logistic Regression
+
+#### Topics Covered:
+
+- **Classification**
+  - When and why classification is used in ML
+- **Logistic Regression**
+  - Implemented logistic regression with both gradient descent and scikit-learn
+  - Explored the sigmoid function and decision boundaries
+- **Cost Function for Logistic Regression**
+  - Logistic loss and simplified cost function
+  - Applied gradient descent to optimize parameters
+- **Overfitting and Regularization**
+  - Identified overfitting in models
+  - Applied regularization techniques for linear and logistic regression
+- Worked on optional labs for classification, logistic regression, cost function, gradient descent, and regularization
+
+### Learnings Applied
+
+Implemented logistic regression on the **Titanic dataset**, submitted predictions to the Kaggle competition, applied preprocessing, feature engineering, and model tuning to optimize performance, and documented all steps in the Colab notebook.
+
+**Topics covered:** Logistic regression from scratch and using libraries, decision boundaries visualization, gradient descent optimization, regularization to prevent overfitting, classification metrics and evaluation.
 
 ---
 
