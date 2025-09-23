@@ -121,8 +121,6 @@ completed **Week 1** of the first course: _Supervised Machine Learning: Regressi
 
 ---
 
----
-
 ## Day 5: Coursera – Supervised Machine Learning: Regression and Classification
 
 **Date**: 22 Sep  
@@ -182,7 +180,7 @@ completed **Week 3** of the first course in the **Machine Learning Specializatio
   - Applied regularization techniques for linear and logistic regression
 - Worked on optional labs for classification, logistic regression, cost function, gradient descent, and regularization
 
-### Learnings Applied
+#### Learnings Applied:
 
 Implemented logistic regression on the **Titanic dataset**, submitted predictions to the Kaggle competition, applied preprocessing, feature engineering, and model tuning to optimize performance, and documented all steps in the Colab notebook.
 
