@@ -188,6 +188,39 @@ Implemented logistic regression on the **Titanic dataset**, submitted prediction
 
 ---
 
+## Day 7: Coursera – Advanced Learning Algorithms  
+
+**Date:** 24 Sep  
+**File:** `7ML_course2_Week1.ipynb`
+
+I started the **second course in the Machine Learning Specialization (Advanced Learning Algorithms)** on Coursera, **Week 1** (not yet completed, just made some progress today).  
+
+### Week 1: Neural Networks Basics  
+
+#### Topics Covered:  
+
+- **Introduction to Neural Networks**  
+  - Motivation: mimicking the human brain for applications in speech, images, text, and many more  
+  - Structure of artificial neurons: input → computation (weights, bias) → activation → output  
+
+- **Neural Network Architecture**  
+  - Input layer: receives raw features  
+  - Hidden layers: multiple neurons, each performing linear combination + activation  
+  - Output layer: often logistic regression for probability predictions  
+
+- **Key Concepts**  
+  - Hidden neurons act as feature learners, transforming raw inputs into useful activations  
+  - Activations from hidden layers serve as new features for the output layer  
+  - Forward propagation algorithm  
+
+#### Learnings Applied:  
+
+- Understood how neural networks generalize linear and logistic regression by stacking neurons in hidden layers  
+- Learned that activations from hidden layers allow the network to model complex, nonlinear relationships  
+- Worked through coding exercises to implement forward propagation and understand neuron computations  
+
+---
+
 ### Notes:
 
 This repository now contains my **NumPy** and **Pandas practice notebooks**, along with my completed **Kaggle ML courses**,
