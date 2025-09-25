@@ -188,36 +188,65 @@ Implemented logistic regression on the **Titanic dataset**, submitted prediction
 
 ---
 
-## Day 7: Coursera – Advanced Learning Algorithms  
+## Day 7: Coursera – Advanced Learning Algorithms
 
 **Date:** 24 Sep  
-**File:** `7ML_course2_Week1.ipynb`
+**File:** `78ML_course2_Week1.ipynb`
 
-I started the **second course in the Machine Learning Specialization (Advanced Learning Algorithms)** on Coursera, **Week 1** (not yet completed, just made some progress today).  
+I started the **second course in the Machine Learning Specialization (Advanced Learning Algorithms)** on Coursera, **Week 1** (not yet completed, just made some progress today).
 
-### Week 1: Neural Networks Basics  
+### Week 1: Neural Networks Basics
 
-#### Topics Covered:  
+#### Topics Covered:
 
-- **Introduction to Neural Networks**  
-  - Motivation: mimicking the human brain for applications in speech, images, text, and many more  
-  - Structure of artificial neurons: input → computation (weights, bias) → activation → output  
+- **Introduction to Neural Networks**
 
-- **Neural Network Architecture**  
-  - Input layer: receives raw features  
-  - Hidden layers: multiple neurons, each performing linear combination + activation  
-  - Output layer: often logistic regression for probability predictions  
+  - Motivation: mimicking the human brain for applications in speech, images, text, and many more
+  - Structure of artificial neurons: input → computation (weights, bias) → activation → output
 
-- **Key Concepts**  
-  - Hidden neurons act as feature learners, transforming raw inputs into useful activations  
-  - Activations from hidden layers serve as new features for the output layer  
-  - Forward propagation algorithm  
+- **Neural Network Architecture**
 
-#### Learnings Applied:  
+  - Input layer: receives raw features
+  - Hidden layers: multiple neurons, each performing linear combination + activation
+  - Output layer: often logistic regression for probability predictions
 
-- Understood how neural networks generalize linear and logistic regression by stacking neurons in hidden layers  
-- Learned that activations from hidden layers allow the network to model complex, nonlinear relationships  
-- Worked through coding exercises to implement forward propagation and understand neuron computations  
+- **Key Concepts**
+  - Hidden neurons act as feature learners, transforming raw inputs into useful activations
+  - Activations from hidden layers serve as new features for the output layer
+  - Forward propagation algorithm
+
+#### Learnings Applied:
+
+- Understood how neural networks generalize linear and logistic regression by stacking neurons in hidden layers
+- Learned that activations from hidden layers allow the network to model complex, nonlinear relationships
+- Worked through coding exercises to implement forward propagation and understand neuron computations
+
+---
+
+## Day 8: Coursera – Advanced Learning Algorithms
+
+**Date:** 25 Sep  
+**File:** `78ML_course2_Week1.ipynb`
+
+Completed **Week 1** of the **second course in the Machine Learning Specialization (Advanced Learning Algorithms)**.
+
+### Topics Covered
+
+- **Introduction to TensorFlow & Keras**
+  - Layers, activations, losses, and Sequential models
+- **Dense Layer Basics**
+  - Units, input shape, fully connected neurons
+- **Linear Regression vs Single Neuron**
+  - Using linear and sigmoid activations
+- **Forward Propagation**
+  - Automatic via `Sequential`
+  - Manual layer calls
+- **Data Handling**
+  - NumPy 1D arrays vs TensorFlow 2D arrays (samples, features) for parallel computation
+- **Practical Implementation**
+  - Built a simple binary digit recognition model: `25 → 15 → 1`, using sigmoid activations
+- **Model Workflow**
+  - `model.compile()`, `model.fit()`, and `model.predict()`
 
 ---
 
